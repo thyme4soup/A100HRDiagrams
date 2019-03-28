@@ -1,0 +1,14 @@
+0424.M5.fits - 2s   R Random Slew
+0425.M5.fits - 2s   R
+0426.M5.fits - 5s   R
+0427.M5.fits - 10s  R
+0428.M5.fits - 30s  R
+0429.M5.fits - 2s   V
+0430.M5.fits - 5s   V
+0431.M5.fits - 10s  V
+0432.M5.fits - 30s  V
+0433.M5.fits - 2s   B
+0434.M5.fits - 5s   B
+0435.M5.fits - 10s  B
+0436.M5.fits - 30s  B
+0437.M5.fits - 120s B
